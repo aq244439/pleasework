@@ -1,0 +1,199 @@
+[
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 3.2832
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 4.5664
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 5.8496
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 7.1328
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 8.4160
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 9.6992
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 10.9824
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 12.2656
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 13.5488
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 14.8320
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 16.1152
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 17.3984
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 18.6816
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 19.9648
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 21.2480
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 22.5312
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 23.8144
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 25.0976
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 26.3808
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 27.6640
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 28.9472
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 30.2304
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 31.5136
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 32.7968
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 34.0800
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 35.3632
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 36.6464
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 37.9296
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 39.2128
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 40.4960
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 41.7792
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 43.0624
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 44.3456
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 45.6288
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 46.9120
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 48.1952
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 49.4784
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 50.7616
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 52.0448
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 53.3280
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 54.6112
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 55.8944
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 57.1776
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 58.4608
+  },
+  {
+    "corner": "TopRight",
+    "arrivalTime": 59.7440
+  },
+  {
+    "corner": "BottomLeft",
+    "arrivalTime": 61.0272
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 62.3104
+  },
+  {
+    "corner": "BottomRight",
+    "arrivalTime": 63.5936
+  },
+  {
+    "corner": "TopLeft",
+    "arrivalTime": 64.8768
+  }
+]
+
